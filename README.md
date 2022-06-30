@@ -15,7 +15,7 @@
 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F9A03C?style=flat-sqauare&logo=laravel&logoColor=white" />
 
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-pink?style=flat-sqauare&logo=Bootstrap&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green?style=flat-sqauare&logo=Bootstrap&logoColor=white" />
 
 <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-blueviolet?style=flat-sqauare&logo=Vue.js&logoColor=white" />
 
