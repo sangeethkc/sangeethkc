@@ -7,7 +7,7 @@
 
 <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-blue?style=flat-sqauare&logo=visualstudio" />
 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-sqauare&logo=php" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-white?style=flat-sqauare&logo=php" />
 
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-blue?style=flat-sqauare&logo=laravel" />
 
