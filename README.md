@@ -5,13 +5,13 @@
 <h3>Things I code with</h3>
 <p>
 
-<img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-#007ACC?style=flat-sqauare&logo=visualstudio" />
+<img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-blue?style=flat-sqauare&logo=visualstudio" />
 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-#777BB4?style=flat-sqauare&logo=php" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-white?style=flat-sqauare&logo=php" />
 
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?style=flat-sqauare&logo=laravel" />
 
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-#7952B3?style=flat-sqauare&logo=Bootstrap" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-pink?style=flat-sqauare&logo=Bootstrap" />
 
 <img alt="NPM" src="https://img.shields.io/badge/-npm-brightgreen?style=flat-sqauare&logo=npm" />
 
