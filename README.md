@@ -13,9 +13,11 @@
 
 <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?style=flat-sqauare&logo=laravel" />
 
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F9A03C?style=flat-sqauare&logo=laravel" />
+
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-pink?style=flat-sqauare&logo=Bootstrap" />
 
-<img alt="Vue" src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=flat-sqauare&logo=Vue.js" />
+<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-blueviolet?style=flat-sqauare&logo=Vue.js" />
 
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-sqauare&logo=Git" />
 
