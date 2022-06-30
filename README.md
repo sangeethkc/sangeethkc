@@ -5,7 +5,7 @@
 <h3>Things I code with</h3>
 <p>
 
-<img alt="VSCode" src="https://img.shields.io/badge/-vs%20code-blue?style=flat-sqauare&logo=visualstudio" />
+<img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-blue?style=flat-sqauare&logo=visualstudio" />
 
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-sqauare&logo=php" />
 
