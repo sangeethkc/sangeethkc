@@ -2,6 +2,17 @@
 
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=sangeethk.sangeethkc)
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkc&layout=compact&theme=dark)](https://github.com/sangeethkc/sangeethkc)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sangeethkc&show_icons=true&theme=gotham" alt="sangeethkc" />
+
+</div>
+
+
 <h3>Things I code with</h3>
 <p>
 
