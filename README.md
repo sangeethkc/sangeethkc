@@ -33,10 +33,9 @@
 
 </p>
 
-<a href="https://app.daily.dev/sangeeth"><img src="https://api.daily.dev/devcards/a313ada14ce44b0cac68d731787f7981.png?r=yza" width="400" alt="sangeeth's Dev Card"/></a>
 
 <p align="center">
-  
+  <a href="https://app.daily.dev/sangeeth"><img src="https://api.daily.dev/devcards/a313ada14ce44b0cac68d731787f7981.png?r=yza" width="400" alt="sangeeth's Dev Card"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=sangeethkc&count_private=true&show_icons=true&theme=midnight-purple&line_height=40&custom_title=Github_Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkc&count_private=true&hide=html,scss,,ejs&theme=midnight-purple">
 
