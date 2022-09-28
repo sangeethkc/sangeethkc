@@ -35,7 +35,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=sangeethkc&count_private=true&show_icons=true&theme=midnight-purple&line_height=40&custom_title=Github_Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangeethkc&count_private=true&show_icons=true&theme=midnight-purple&line_height=40&custom_title=Github_Stats&card_width=200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkc&count_private=true&hide=html,scss,,ejs&theme=midnight-purple">
 <a href="https://github.com/sangeethkc"><img src="https://github.com/sangeethkc/sangeethkc/blob/main/devcard.svg" width="205" alt="Sangeeth's Dev Card"/></a>
 </p>
