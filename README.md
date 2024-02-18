@@ -2,13 +2,15 @@
 
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=sangeethk.sangeethkc)
+## Sangeeth here!
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=sangeethk.sangeethkc) -->
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/sangeethkc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/sangeethkc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h3>Things I code with</h3>
+<h3>Tech I work with</h3>
 <p>
 
 <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white" />
