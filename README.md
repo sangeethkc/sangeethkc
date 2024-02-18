@@ -4,6 +4,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sangeethk.sangeethkc)
 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/sangeethkc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/sangeethkc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <h3>Things I code with</h3>
 <p>
 
@@ -45,11 +49,8 @@
   <a href="https://github.com/sangeethkc"><img src="https://github-readme-stats.vercel.app/api?username=sangeethkc&count_private=true&show_icons=true&theme=midnight-purple&line_height=48&custom_title=Github_Stats&hide=stars&include_all_commits&card_width=205" align="center"></a>
   <a href="https://github.com/sangeethkc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkc&count_private=true&hide=html,scss,,ejs&theme=midnight-purple&card_width=205" align="center"></a>
   </p>
-</p>https://github.com/sangeethkc/sangeethkc 
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/sangeethkc" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/sangeethkc" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
 <!--
 **sangeethkc/sangeethkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
