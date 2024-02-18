@@ -39,8 +39,10 @@
   <a href="https://github.com/sangeethkc"><img src="https://github.com/sangeethkc/sangeethkc/blob/main/devcard.svg" width="200" alt="Sangeeth's Dev Card" align="center"/></a>
   </p>
   <br>
+  <p>
   <a href="https://github.com/sangeethkc"><img src="https://github-readme-stats.vercel.app/api?username=sangeethkc&count_private=true&show_icons=true&theme=midnight-purple&line_height=48&custom_title=Github_Stats&hide=stars&include_all_commits&card_width=205" align="center"></a>
   <a href="https://github.com/sangeethkc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkc&count_private=true&hide=html,scss,,ejs&theme=midnight-purple&card_width=205" align="center"></a>
+  </p>
 </p>https://github.com/sangeethkc/sangeethkc 
 
 <h3>Where to find me</h3>
