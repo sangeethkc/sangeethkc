@@ -17,6 +17,8 @@
 
 <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F9A03C?style=for-the-badge&logo=laravel&logoColor=white" />
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green?style=for-the-badge&logo=Bootstrap&logoColor=white" />
@@ -35,7 +37,7 @@
 
 <p align="center">
   <p>
-  <a href="https://www.credly.com/badges/fdb181e6-4e94-4c3e-9e55-ee4ad9ff144f/public_url"><img src="aws-cloud-quest-cloud-practitioner.png" height="500" width="500" align="center" alt="AWS Cloud Practitioner" align="center"/></a>
+  <a href="https://www.credly.com/badges/fdb181e6-4e94-4c3e-9e55-ee4ad9ff144f/public_url"><img src="aws-cloud-quest-cloud-practitioner.png" height="400" width="400" align="center" alt="AWS Cloud Practitioner" align="center"/></a>
   <a href="https://github.com/sangeethkc"><img src="https://github.com/sangeethkc/sangeethkc/blob/main/devcard.svg" width="200" alt="Sangeeth's Dev Card" align="center"/></a>
   </p>
   <br>
