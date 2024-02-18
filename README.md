@@ -34,10 +34,11 @@
 </p>
 
 <p align="center">
-  
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fdb181e6-4e94-4c3e-9e55-ee4ad9ff144f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://github.com/sangeethkc"><img src="https://github.com/sangeethkc/sangeethkc/blob/main/devcard.svg" width="205" alt="Sangeeth's Dev Card" align="center"/></a>
+  <br>
   <a href="https://github.com/sangeethkc"><img src="https://github-readme-stats.vercel.app/api?username=sangeethkc&count_private=true&show_icons=true&theme=midnight-purple&line_height=48&custom_title=Github_Stats&hide=stars&include_all_commits&card_width=205" align="center"></a>
   <a href="https://github.com/sangeethkc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethkc&count_private=true&hide=html,scss,,ejs&theme=midnight-purple&card_width=205" align="center"></a>
-<a href="https://github.com/sangeethkc"><img src="https://github.com/sangeethkc/sangeethkc/blob/main/devcard.svg" width="205" alt="Sangeeth's Dev Card" align="center"/></a>
 </p>
 
 <h3>Where to find me</h3>
