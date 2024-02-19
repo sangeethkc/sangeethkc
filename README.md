@@ -25,6 +25,8 @@
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F9A03C?style=for-the-badge&logo=laravel&logoColor=white" />
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green?style=for-the-badge&logo=Bootstrap&logoColor=white" />
