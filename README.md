@@ -45,7 +45,11 @@
 
 <p align="center">
   <p>
-  <a href="https://www.credly.com/badges/fdb181e6-4e94-4c3e-9e55-ee4ad9ff144f/public_url"><img src="aws-cloud-quest-cloud-practitioner.png" height="400" width="400" align="center" alt="AWS Cloud Practitioner" align="center"/></a>
+  <a href="https://www.credly.com/badges/fdb181e6-4e94-4c3e-9e55-ee4ad9ff144f/public_url"><img src="aws-cloud-quest-cloud-practitioner.png" height="300" width="300" align="center" alt="AWS Cloud Practitioner" align="center"/></a>
+  <a href="https://github.com/sangeethkc"><img src="https://github.com/sangeethkc/sangeethkc/blob/main/devcard.svg" width="200" alt="Sangeeth's Dev Card" align="center"/></a>
+  </p>
+  <br>
+  <a href="https://www.credly.com/badges/64734d34-3517-4b1f-b2a9-db37adf17851/public_url"><img src="aws-partner-technical-accredited.png" height="300" width="300" align="center" alt="AWS Cloud Practitioner" align="center"/></a>
   <a href="https://github.com/sangeethkc"><img src="https://github.com/sangeethkc/sangeethkc/blob/main/devcard.svg" width="200" alt="Sangeeth's Dev Card" align="center"/></a>
   </p>
   <br>
